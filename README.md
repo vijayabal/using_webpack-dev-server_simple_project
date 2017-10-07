@@ -1,4 +1,4 @@
-# first_webpack_project
+# Install webpack-dev-server and run project via that
 
 This simple project explain how to add webpack-dev-server.
 
