@@ -3,7 +3,9 @@
 This simple project explain how to add webpack-dev-server.
 
 1. Add webpack-dev-server plugin into npm
-   >npm install webpack-dev-server  --save-dev   //Save -dev helps you to add plugins to package.json file
+   >npm install webpack-dev-server  --save-dev   
+   
+   //--Save -dev helps you to add plugins to package.json file
 
 2. Package.json looks like
 	{
